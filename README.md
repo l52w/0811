@@ -1,10 +1,10 @@
-![image](https://user-images.githubusercontent.com/62008219/184368569-16706811-ad5a-4e7c-a682-7d7c206f4bc0.png)
+![image](https://user-images.githubusercontent.com/62008219/184369784-7f4918d1-aab1-4c2d-8a48-25d98ef0551b.png)
 
 # main
-![image](https://user-images.githubusercontent.com/62008219/184368798-0cd0fab5-5e14-44da-bbbf-2fc37174497a.png)
+![image](https://user-images.githubusercontent.com/62008219/184369878-f162b8aa-2603-4187-a778-602e2d2b7f50.png)
 
 # About page
-![image](https://user-images.githubusercontent.com/62008219/184368908-f6b4f8ab-6a78-4dac-ac5a-a386ad1fc1e0.png)
+![image](https://user-images.githubusercontent.com/62008219/184370015-55590055-0cf4-46ec-9985-d07c423ab176.png)
 
 # Buildings
-![image](https://user-images.githubusercontent.com/62008219/184369017-68e4ce1a-a2f3-4eca-8cfd-0b5697620b8a.png)
+![image](https://user-images.githubusercontent.com/62008219/184370103-b0a837d1-1dc8-4c1c-885a-824bf20307bc.png)
