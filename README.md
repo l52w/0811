@@ -1,10 +1,10 @@
-![image](https://user-images.githubusercontent.com/62008219/184368569-16706811-ad5a-4e7c-a682-7d7c206f4bc0.png)
+![image](https://user-images.githubusercontent.com/62008219/191029342-040c0af0-112c-4bb2-b318-fe2e7f580d2d.png)
 
 # main
-![image](https://user-images.githubusercontent.com/62008219/184368798-0cd0fab5-5e14-44da-bbbf-2fc37174497a.png)
+![image](https://user-images.githubusercontent.com/62008219/191029441-77061092-bfb3-4448-bd11-151957c4cbb7.png)
 
-# About page
-![image](https://user-images.githubusercontent.com/62008219/184368908-f6b4f8ab-6a78-4dac-ac5a-a386ad1fc1e0.png)
+# About game
+![image](https://user-images.githubusercontent.com/62008219/191029546-75c3d065-845f-4899-91f2-9ff58ee4ba77.png)
 
-# Buildings
-![image](https://user-images.githubusercontent.com/62008219/184369017-68e4ce1a-a2f3-4eca-8cfd-0b5697620b8a.png)
+# game series
+![image](https://user-images.githubusercontent.com/62008219/191029626-8424f5e8-f446-4b9d-8315-20ab46bcf1d2.png)
